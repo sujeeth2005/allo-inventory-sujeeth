@@ -2,7 +2,7 @@
 
 A Next.js inventory-reservation platform for multi-warehouse retail. Customers can place a timed hold on stock at checkout; the hold expires automatically if payment isn't confirmed.
 
-**Live URL:** `https://allo-inventory.vercel.app` _(replace after deploy)_
+**Live URL:** `https://allo-inventory-sujeeth.vercel.app`
 
 ---
 
