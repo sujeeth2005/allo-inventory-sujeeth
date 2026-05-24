@@ -5,8 +5,16 @@ A Next.js inventory-reservation platform for multi-warehouse retail. Customers c
 **Live URL:** `https://allo-inventory-sujeeth.vercel.app`
 
 ---
+## Screenshots
 
-## Running locally
+### Product Listing
+![Product Listing](public/screenshots/products.png)
+
+### Reserve Modal
+![Reserve Modal](public/screenshots/reserve-modal.png)
+
+### Checkout Page
+![Checkout Page](public/screenshots/checkout.png)
 
 ### Prerequisites
 
